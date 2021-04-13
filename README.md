@@ -12,6 +12,7 @@ Pour faire fonctionne cette IA generatrice, vous devez 'uploader' le projet, ens
 Vous devez disposer des 'requirements' suivant pour deployer l'IA génératrice :
 - Linux or macOS with Python ≥ 3.6
 - numpy 1.20.1
+- tkinter
 ## Installs
 - Si vous êtes sur Windows, il faut disposer d'un IDE. A défaut, vous pouvez vous positionner en ligne de commande dans le reperoitre 'main' et lancer 'python GenerativeDungeonMaps.py'
 - Si vous êtes sur Linux, il se positionner en ligne de commande dans le repertoire du projet et lancer './deploy.sh'
