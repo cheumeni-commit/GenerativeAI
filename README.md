@@ -4,6 +4,7 @@ Generative Dungeon Maps with IA
 Ce projet réalise l'implémentation d'un IA générative de carte viable. En effet, l'IA génère une matrice 4x4 (carte d'un donjon viable) avec un point de départ, un point de sortie et une point trésor.
 Le but de cet IA générative de s'assurer de l'existence de chemin entre le point de départ (quelconque) et le point trésor (quelconque), le point de départ et le point de sortie en utilisant le Reinforcement Learning grâce à l'algorithme de Q-Learning.
 
+![resultat de l'IA](https://github.com/cheumeni-commit/GenerativeAI/tree/master/img/generativeIA.png)
 
 # Installation
 Pour faire fonctionne cette IA generatrice, vous devez 'uploader' le projet, ensuite le dezipper. Une fois ces étapes réalisées:
@@ -32,7 +33,7 @@ Si vous utilisez ce projet pour faire des travaux de recherche et pour résoudre
 @misc{jmc2021GenerativeIA,
   author =       {Jean-Michel Cheumeni},
   title =        {Generative AI},
-  howpublished = {\url{https://github.com/cheumeni-commit/GenerativeAI.git}},
+  howpublished = {\url{https://github.com/cheumeni-commit/GenerativeAI/tree/master}},
   year =         {2021}
 }
 ```
